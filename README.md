@@ -20,6 +20,10 @@ application, a self-directed research project called Hylomorphic Optics
 phenomenology, AST analysis, and UI design), and enough range across unrelated
 domains to have developed working fluency in fields I've never formally studied.
 
+> Most of my development work over the last four years was committed 
+> to a private enterprise source control system. The contribution 
+> graph here doesn't reflect actual output.
+
 ## What I'm interested in
 
 Problems in frontier domains where the solution space hasn't been fully mapped
