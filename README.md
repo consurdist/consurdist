@@ -54,5 +54,5 @@ Docker · Kubernetes · PostgreSQL · WebGL · Canvas API · ML Systems
 
 ## Elsewhere
 
-- LinkedIn: [linkedin.com/in/consurdist](https://linkedin.com/in/consurdist)
+- LinkedIn: [linkedin.com/in/consurdist](https://linkedin.com/in/thalwegian)
 - Email: consurdist@proton.me
